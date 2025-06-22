@@ -1,0 +1,6 @@
+Required libraries for the Garbage classification system
+
+1. tensorflow/ keras 
+2. numpy
+3. opencv-python(cv2)
+4. matplotlib.pyplot
